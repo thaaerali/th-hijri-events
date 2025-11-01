@@ -1,604 +1,898 @@
 {
   "success": true,
   "last_updated": "2024-10-31",
-  "hijri_year": 1446,
+  "hijri_year": null,
   "version": "1.0",
   "source": "المناسبات الإسلامية والشيعية",
   "data": [
     {
-      "hijri_date": "1/1/1446",
+      "hijri_date": "1/1",
       "hijri_day": 1,
       "hijri_month": 1,
-      "hijri_year": 1446,
-      "event": "رأس السنة الهجرية 1446 / غزوة ذات الرقاع",
+      "event": "رأس السنة الهجرية / غزوة ذات الرقاع",
       "importance": "high",
       "type": "islamic_occasion"
     },
     {
-      "hijri_date": "2/1/1446",
+      "hijri_date": "2/1",
       "hijri_day": 2,
       "hijri_month": 1,
-      "hijri_year": 1446,
       "event": "وصول سيد الشهداء الإمام الحسين الى كربلاء سنة 61 هـ",
       "importance": "high",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "3/1/1446",
+      "hijri_date": "3/1",
       "hijri_day": 3,
       "hijri_month": 1,
-      "hijri_year": 1446,
       "event": "ورود عمر بن سعد بن أبي وقاص مع جيش أهل الكوفة إلى أرض كربلاء 61هـ",
       "importance": "medium",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "7/1/1446",
+      "hijri_date": "7/1",
       "hijri_day": 7,
       "hijri_month": 1,
-      "hijri_year": 1446,
       "event": "منع الماء عن أهل البيت في كربلاء",
       "importance": "high",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "9/1/1446",
+      "hijri_date": "9/1",
       "hijri_day": 9,
       "hijri_month": 1,
-      "hijri_year": 1446,
       "event": "مجيء شمر بن ذي الجوشن بكتاب من ابن زياد بقتل الحسين",
       "importance": "high",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "10/1/1446",
+      "hijri_date": "10/1",
       "hijri_day": 10,
       "hijri_month": 1,
-      "hijri_year": 1446,
       "event": "ذكرى يوم عاشوراء (واقعة الطف) / استشهاد الإمام الحسين وأهل بيته وصحبه (عليهم السلام) 61هـ",
       "importance": "high",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "11/1/1446",
+      "hijri_date": "11/1",
       "hijri_day": 11,
       "hijri_month": 1,
-      "hijri_year": 1446,
       "event": "سبي العترة الطاهرة (أهل البيت) إلى الكوفة بعد واقعة الطف في كربلاء",
       "importance": "high",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "12/1/1446",
+      "hijri_date": "12/1",
       "hijri_day": 12,
       "hijri_month": 1,
-      "hijri_year": 1446,
       "event": "وصول السبايا إلى الكوفة",
       "importance": "medium",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "13/1/1446",
+      "hijri_date": "13/1",
       "hijri_day": 13,
       "hijri_month": 1,
-      "hijri_year": 1446,
       "event": "دفن شهداء الطف (الحسين وأهل بيته عليهم السلام)",
       "importance": "high",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "19/1/1446",
+      "hijri_date": "19/1",
       "hijri_day": 19,
       "hijri_month": 1,
-      "hijri_year": 1446,
       "event": "حركة قافلة السبايا من أهل البيت من الكوفة إلى الشام 61هـ",
       "importance": "medium",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "25/1/1446",
+      "hijri_date": "25/1",
       "hijri_day": 25,
       "hijri_month": 1,
-      "hijri_year": 1446,
       "event": "ذكرى وفاة الإمام علي بن الحسين (عليهما السلام) 95هـ / معركة القادسية 14هـ",
       "importance": "high",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "1/2/1446",
+      "hijri_date": "1/2",
       "hijri_day": 1,
       "hijri_month": 2,
-      "hijri_year": 1446,
       "event": "دخول قافلة السبايا والرؤوس إلى الشام 61هـ / واقعة صفين 37هـ",
       "importance": "medium",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "7/2/1446",
+      "hijri_date": "7/2",
       "hijri_day": 7,
       "hijri_month": 2,
-      "hijri_year": 1446,
       "event": "شهادة الإمام الحسن المجتبى 50هـ / ميلاد الإمام الكاظم (عليه السلام) 128هـ",
       "importance": "high",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "8/2/1446",
+      "hijri_date": "8/2",
       "hijri_day": 8,
       "hijri_month": 2,
-      "hijri_year": 1446,
       "event": "وفاة سلمان المحمدي (الفارسي) عام 35 هـ",
       "importance": "medium",
       "type": "islamic_occasion"
     },
     {
-      "hijri_date": "9/2/1446",
+      "hijri_date": "9/2",
       "hijri_day": 9,
       "hijri_month": 2,
-      "hijri_year": 1446,
       "event": "شهادة الصحابي عمار بن ياسر في صفين عن 93 سنة / معركة النهروان 38 هـ",
       "importance": "medium",
       "type": "islamic_occasion"
     },
     {
-      "hijri_date": "17/2/1446",
+      "hijri_date": "17/2",
       "hijri_day": 17,
       "hijri_month": 2,
-      "hijri_year": 1446,
       "event": "شهادة الإمام الرضا (عليه السلام) 203هـ",
       "importance": "high",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "20/2/1446",
+      "hijri_date": "20/2",
       "hijri_day": 20,
       "hijri_month": 2,
-      "hijri_year": 1446,
       "event": "أربعينية الإمام الحسين / ورود السبايا إلى كربلاء في طريقهم إلى مدينة جدهم رسول الله (صلى الله عليه وآله) 61 هـ",
       "importance": "high",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "25/2/1446",
+      "hijri_date": "25/2",
       "hijri_day": 25,
       "hijri_month": 2,
-      "hijri_year": 1446,
       "event": "وفاة السيدة مريم بنت عمران والدة السيد المسيح",
       "importance": "medium",
       "type": "islamic_occasion"
     },
     {
-      "hijri_date": "26/2/1446",
+      "hijri_date": "26/2",
       "hijri_day": 26,
       "hijri_month": 2,
-      "hijri_year": 1446,
       "event": "وفاة النبي يحيى (عليه السلام)",
       "importance": "medium",
       "type": "islamic_occasion"
     },
     {
-      "hijri_date": "28/2/1446",
+      "hijri_date": "28/2",
       "hijri_day": 28,
       "hijri_month": 2,
-      "hijri_year": 1446,
       "event": "ذكرى وفاة رسول الله (صلى الله عليه وآله وسلم) سنة 11 هـ",
       "importance": "high",
       "type": "islamic_occasion"
     },
     {
-      "hijri_date": "29/2/1446",
+      "hijri_date": "29/2",
       "hijri_day": 29,
       "hijri_month": 2,
-      "hijri_year": 1446,
       "event": "شهادة الإمام علي بن موسى الرضا (عليهما السلام) في آخر صفر سنة 203 هـ (على رواية)",
       "importance": "high",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "1/3/1446",
+      "hijri_date": "1/3",
       "hijri_day": 1,
       "hijri_month": 3,
-      "hijri_year": 1446,
       "event": "هجرة النبي إلى يثرب مرورًا بغار ثور ومبيت الإمام علي على فراش النبي عام 13 من البعثة / غزوة دومة الجندل سنة 5 هـ",
       "importance": "high",
       "type": "islamic_occasion"
     },
     {
-      "hijri_date": "3/3/1446",
+      "hijri_date": "3/3",
       "hijri_day": 3,
       "hijri_month": 3,
-      "hijri_year": 1446,
       "event": "إحراق المسجد الحرام والكعبة المشرفة بأمر من يزيد (لعنه الله)",
       "importance": "medium",
       "type": "historical"
     },
     {
-      "hijri_date": "4/3/1446",
+      "hijri_date": "4/3",
       "hijri_day": 4,
       "hijri_month": 3,
-      "hijri_year": 1446,
       "event": "خروج النبي من غار ثور إلى يثرب (المدينة المنورة) ليلة 4 ربيع الأول متخفيًا",
       "importance": "medium",
       "type": "islamic_occasion"
     },
     {
-      "hijri_date": "5/3/1446",
+      "hijri_date": "5/3",
       "hijri_day": 5,
       "hijri_month": 3,
-      "hijri_year": 1446,
       "event": "وفاة السيدة سكينة بنت الحسين (عليهما السلام) سنة 117 هـ",
       "importance": "medium",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "8/3/1446",
+      "hijri_date": "8/3",
       "hijri_day": 8,
       "hijri_month": 3,
-      "hijri_year": 1446,
       "event": "وفاة الإمام الحسن العسكري 260 هـ",
       "importance": "high",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "10/3/1446",
+      "hijri_date": "10/3",
       "hijri_day": 10,
       "hijri_month": 3,
-      "hijri_year": 1446,
       "event": "زواج الرسول الأكرم من خديجة الكبرى سنة 25 من عمره الشريف / وفاة عبد المطلب جد النبي في السنة الثامنة من ولادته",
       "importance": "medium",
       "type": "islamic_occasion"
     },
     {
-      "hijri_date": "12/3/1446",
+      "hijri_date": "12/3",
       "hijri_day": 12,
       "hijri_month": 3,
-      "hijri_year": 1446,
       "event": "دخول النبي يثرب مهاجرًا عام 13 من البعثة / قيام الدولة المحمدية بالمدينة المنورة / سقوط الدولة الأموية",
       "importance": "high",
       "type": "islamic_occasion"
     },
     {
-      "hijri_date": "15/3/1446",
+      "hijri_date": "15/3",
       "hijri_day": 15,
       "hijri_month": 3,
-      "hijri_year": 1446,
       "event": "بناء مسجد قباء (أول مسجد في الإسلام)",
       "importance": "medium",
       "type": "islamic_occasion"
     },
     {
-      "hijri_date": "17/3/1446",
+      "hijri_date": "17/3",
       "hijri_day": 17,
       "hijri_month": 3,
-      "hijri_year": 1446,
       "event": "ميلاد النبي الأكرم سنة 40 قبل البعثة (عام الفيل 53 قبل الهجرة) / ميلاد الإمام الصادق سنة 83 هـ",
       "importance": "high",
       "type": "islamic_occasion"
     },
     {
-      "hijri_date": "18/3/1446",
+      "hijri_date": "18/3",
       "hijri_day": 18,
       "hijri_month": 3,
-      "hijri_year": 1446,
       "event": "بناء المسجد النبوي في المدينة المنورة",
       "importance": "medium",
       "type": "islamic_occasion"
     },
     {
-      "hijri_date": "22/3/1446",
+      "hijri_date": "22/3",
       "hijri_day": 22,
       "hijri_month": 3,
-      "hijri_year": 1446,
       "event": "غزوة بني النضير سنة 3 هـ",
       "importance": "medium",
       "type": "historical"
     },
     {
-      "hijri_date": "23/3/1446",
+      "hijri_date": "23/3",
       "hijri_day": 23,
       "hijri_month": 3,
-      "hijri_year": 1446,
       "event": "حرق المسجد الأقصى 1973 م",
       "importance": "medium",
       "type": "historical"
     },
     {
-      "hijri_date": "26/3/1446",
+      "hijri_date": "26/3",
       "hijri_day": 26,
       "hijri_month": 3,
-      "hijri_year": 1446,
       "event": "إبرام معاهدة الصلح بين الإمام الحسن المجتبى ومعاوية بن أبي سفيان سنة 41 هـ",
       "importance": "medium",
       "type": "historical"
     },
     {
-      "hijri_date": "2/4/1446",
+      "hijri_date": "2/4",
       "hijri_day": 2,
       "hijri_month": 4,
-      "hijri_year": 1446,
       "event": "معركة حطين في 4/7/1187م التي مهدت الطريق لدخول المسلمين بيت المقدس في 2/10/1187م",
       "importance": "medium",
       "type": "historical"
     },
     {
-      "hijri_date": "3/4/1446",
+      "hijri_date": "3/4",
       "hijri_day": 3,
       "hijri_month": 4,
-      "hijri_year": 1446,
       "event": "رمي الحجّاج الكعبة بالنار في حصار بن الزبير واحتراقها",
       "importance": "medium",
       "type": "historical"
     },
     {
-      "hijri_date": "8/4/1446",
+      "hijri_date": "8/4",
       "hijri_day": 8,
       "hijri_month": 4,
-      "hijri_year": 1446,
       "event": "ذكرى مولد الإمام الحسن العسكري 232هـ / وفاة السيدة فاطمة المعصومة بنت الإمام الكاظم 201هـ",
       "importance": "high",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "10/4/1446",
+      "hijri_date": "10/4",
       "hijri_day": 10,
       "hijri_month": 4,
-      "hijri_year": 1446,
       "event": "قصف الروس لمرقد الإمام الرضا 1330هـ",
       "importance": "medium",
       "type": "historical"
     },
     {
-      "hijri_date": "14/4/1446",
+      "hijri_date": "14/4",
       "hijri_day": 14,
       "hijri_month": 4,
-      "hijri_year": 1446,
       "event": "ثورة المختار الثقفي 66 هـ",
       "importance": "medium",
       "type": "historical"
     },
     {
-      "hijri_date": "2/5/1446",
+      "hijri_date": "2/5",
       "hijri_day": 2,
       "hijri_month": 5,
-      "hijri_year": 1446,
       "event": "واقعة مؤتة واستشهاد جعفر الطيار 8 هـ",
       "importance": "high",
       "type": "islamic_occasion"
     },
     {
-      "hijri_date": "5/5/1446",
+      "hijri_date": "5/5",
       "hijri_day": 5,
       "hijri_month": 5,
-      "hijri_year": 1446,
       "event": "مولد السيدة زينب بنت أمير المؤمنين 5 هـ",
       "importance": "medium",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "10/5/1446",
+      "hijri_date": "10/5",
       "hijri_day": 10,
       "hijri_month": 5,
-      "hijri_year": 1446,
       "event": "واقعة الجمل 36هـ",
       "importance": "medium",
       "type": "historical"
     },
     {
-      "hijri_date": "13/5/1446",
+      "hijri_date": "13/5",
       "hijri_day": 13,
       "hijri_month": 5,
-      "hijri_year": 1446,
       "event": "ذكرى استشهاد الصديقة الزهراء 11هـ",
       "importance": "high",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "3/6/1446",
+      "hijri_date": "3/6",
       "hijri_day": 3,
       "hijri_month": 6,
-      "hijri_year": 1446,
       "event": "استشهاد الصديقة الزهراء 11هـ (على رواية)",
       "importance": "high",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "10/6/1446",
+      "hijri_date": "10/6",
       "hijri_day": 10,
       "hijri_month": 6,
-      "hijri_year": 1446,
       "event": "واقعة مؤتة وشهادة جعفر بن أبي طالب (الطيار) 8هـ",
       "importance": "high",
       "type": "islamic_occasion"
     },
     {
-      "hijri_date": "13/6/1446",
+      "hijri_date": "13/6",
       "hijri_day": 13,
       "hijri_month": 6,
-      "hijri_year": 1446,
       "event": "وفاة أم البنين فاطمة بنت حزام زوجة أمير المؤمنين (والدة العباس وأشقائه) سنة 64 هـ",
       "importance": "medium",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "14/6/1446",
+      "hijri_date": "14/6",
       "hijri_day": 14,
       "hijri_month": 6,
-      "hijri_year": 1446,
       "event": "هدم الكعبة وإعادة بنائها من قبل عبد الله بن الزبير",
       "importance": "medium",
       "type": "historical"
     },
     {
-      "hijri_date": "20/6/1446",
+      "hijri_date": "20/6",
       "hijri_day": 20,
       "hijri_month": 6,
-      "hijri_year": 1446,
       "event": "ذكرى مولد الصديقة الطاهرة فاطمة بنت رسول الله (صلى الله عليه وآله وسلم) سنة 8 قبل الهجرة",
       "importance": "high",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "1/7/1446",
+      "hijri_date": "1/7",
       "hijri_day": 1,
       "hijri_month": 7,
-      "hijri_year": 1446,
       "event": "ذكرى مولد الإمام محمد الباقر (عليه السلام) 57 هـ",
       "importance": "high",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "2/7/1446",
+      "hijri_date": "2/7",
       "hijri_day": 2,
       "hijri_month": 7,
-      "hijri_year": 1446,
       "event": "ذكرى مولد الإمام علي الهادي 212هـ",
       "importance": "high",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "3/7/1446",
+      "hijri_date": "3/7",
       "hijri_day": 3,
       "hijri_month": 7,
-      "hijri_year": 1446,
       "event": "ذكرى وفاة الإمام علي بن محمد الهادي 254هـ",
       "importance": "high",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "7/7/1446",
+      "hijri_date": "7/7",
       "hijri_day": 7,
       "hijri_month": 7,
-      "hijri_year": 1446,
       "event": "ليلة الرغائب أول ليلة جمعة في شهر رجب (لها فضل عظيم و لها أعمال خاصة)",
       "importance": "medium",
       "type": "islamic_occasion"
     },
     {
-      "hijri_date": "10/7/1446",
+      "hijri_date": "10/7",
       "hijri_day": 10,
       "hijri_month": 7,
-      "hijri_year": 1446,
       "event": "ذكرى مولد الإمام محمد بن علي الجواد 195هـ",
       "importance": "high",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "12/7/1446",
+      "hijri_date": "12/7",
       "hijri_day": 12,
       "hijri_month": 7,
-      "hijri_year": 1446,
       "event": "وفاة العباس بن عبدالمطلب عم رسول الله / قدوم أمير المؤمنين إلى الكوفة واتخذها مقراً لخلافته 36هـ",
       "importance": "medium",
       "type": "historical"
     },
     {
-      "hijri_date": "13/7/1446",
+      "hijri_date": "13/7",
       "hijri_day": 13,
       "hijri_month": 7,
-      "hijri_year": 1446,
       "event": "ذكرى ميلاد أمير المؤمنين الإمام علي بن أبي طالب 23 قبل الهجرة (30 سنة من عام الفيل)",
       "importance": "high",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "15/7/1446",
+      "hijri_date": "15/7",
       "hijri_day": 15,
       "hijri_month": 7,
-      "hijri_year": 1446,
       "event": "عقد رسول الله قران علي وفاطمة بعد 5 شهور من الهجرة / وفاة العقيلة الحوراء زينب 62هـ / تحول القبلة من القدس إلى الكعبة أثناء صلاة العصر 2هـ",
       "importance": "high",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "21/7/1446",
+      "hijri_date": "21/7",
       "hijri_day": 21,
       "hijri_month": 7,
-      "hijri_year": 1446,
       "event": "ولادة السيدة سكينة بنت الإمام الحسين",
       "importance": "medium",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "24/7/1446",
+      "hijri_date": "24/7",
       "hijri_day": 24,
       "hijri_month": 7,
-      "hijri_year": 1446,
       "event": "فتح حصون خيبر بيد أمير المؤمنين 7هـ / عودة جعفر الطيار وصحبه من الحبشة",
       "importance": "medium",
       "type": "historical"
     },
     {
-      "hijri_date": "25/7/1446",
+      "hijri_date": "25/7",
       "hijri_day": 25,
       "hijri_month": 7,
-      "hijri_year": 1446,
       "event": "شهادة الإمام موسى الكاظم 183هـ مسموما في السجن",
       "importance": "high",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "26/7/1446",
+      "hijri_date": "26/7",
       "hijri_day": 26,
       "hijri_month": 7,
-      "hijri_year": 1446,
       "event": "وفاة أبو طالب عم رسول الله وكافله 3 قبل الهجرة (على رواية)",
       "importance": "medium",
       "type": "historical"
     },
     {
-      "hijri_date": "27/7/1446",
+      "hijri_date": "27/7",
       "hijri_day": 27,
       "hijri_month": 7,
-      "hijri_year": 1446,
       "event": "بعثة النبي الأكرم 13 قبل الهجرة / الإسراء والمعراج",
       "importance": "high",
       "type": "islamic_occasion"
     },
     {
-      "hijri_date": "28/7/1446",
+      "hijri_date": "28/7",
       "hijri_day": 28,
       "hijri_month": 7,
-      "hijri_year": 1446,
       "event": "حركة الإمام الحسين من المدينة إلى مكة المكرمة 60هـ",
       "importance": "medium",
       "type": "shia_occasion"
     },
     {
-      "hijri_date": "29/7/1446",
+      "hijri_date": "29/7",
       "hijri_day": 29,
       "hijri_month": 7,
-      "hijri_year": 1446,
       "event": "غزوة تبوك 9هـ",
       "importance": "medium",
       "type": "historical"
     },
     {
-      "hijri_date": "1/10/1446",
+      "hijri_date": "2/8",
+      "hijri_day": 2,
+      "hijri_month": 8,
+      "event": "فرض صيام شهر رمضان 2هـ",
+      "importance": "medium",
+      "type": "islamic_occasion"
+    },
+    {
+      "hijri_date": "3/8",
+      "hijri_day": 3,
+      "hijri_month": 8,
+      "event": "ذكرى مولد سبط النبي الأكرم الإمام الحسين 3هـ",
+      "importance": "high",
+      "type": "shia_occasion"
+    },
+    {
+      "hijri_date": "4/8",
+      "hijri_day": 4,
+      "hijri_month": 8,
+      "event": "مولد العباس بن أمير المؤمنين 26هـ",
+      "importance": "medium",
+      "type": "shia_occasion"
+    },
+    {
+      "hijri_date": "5/8",
+      "hijri_day": 5,
+      "hijri_month": 8,
+      "event": "مولد الإمام علي بن الحسين (عليه السلام) السجاد 38 هـ",
+      "importance": "high",
+      "type": "shia_occasion"
+    },
+    {
+      "hijri_date": "8/8",
+      "hijri_day": 8,
+      "hijri_month": 8,
+      "event": "بداية الغيبة الصغرى للإمام المهدي (عج)",
+      "importance": "high",
+      "type": "shia_occasion"
+    },
+    {
+      "hijri_date": "11/8",
+      "hijri_day": 11,
+      "hijri_month": 8,
+      "event": "مولد علي الأكبر بن الإمام الحسين 33هـ",
+      "importance": "medium",
+      "type": "shia_occasion"
+    },
+    {
+      "hijri_date": "15/8",
+      "hijri_day": 15,
+      "hijri_month": 8,
+      "event": "ذكرى ولادة الحجة بن الحسن العسكري بقية الله الأعظم 255هـ",
+      "importance": "high",
+      "type": "shia_occasion"
+    },
+    {
+      "hijri_date": "19/8",
+      "hijri_day": 19,
+      "hijri_month": 8,
+      "event": "غزوة بني المصطلق 6هـ",
+      "importance": "medium",
+      "type": "historical"
+    },
+    {
+      "hijri_date": "2/9",
+      "hijri_day": 2,
+      "hijri_month": 9,
+      "event": "تولي الإمام الرضا ولاية عهد المأمون العباسي عام 201هـ",
+      "importance": "medium",
+      "type": "historical"
+    },
+    {
+      "hijri_date": "3/9",
+      "hijri_day": 3,
+      "hijri_month": 9,
+      "event": "نزول المصحف على إبراهيم",
+      "importance": "medium",
+      "type": "islamic_occasion"
+    },
+    {
+      "hijri_date": "6/9",
+      "hijri_day": 6,
+      "hijri_month": 9,
+      "event": "البيعة بولاية العهد للإمام الرضا 201هـ (على رواية) / نزول التوراة على موسى",
+      "importance": "medium",
+      "type": "historical"
+    },
+    {
+      "hijri_date": "7/9",
+      "hijri_day": 7,
+      "hijri_month": 9,
+      "event": "وفاة أبوطالب عم الرسول وكافله (10 بعد البعثة)",
+      "importance": "medium",
+      "type": "historical"
+    },
+    {
+      "hijri_date": "8/9",
+      "hijri_day": 8,
+      "hijri_month": 9,
+      "event": "نزول الإنجيل على عيسى",
+      "importance": "medium",
+      "type": "islamic_occasion"
+    },
+    {
+      "hijri_date": "10/9",
+      "hijri_day": 10,
+      "hijri_month": 9,
+      "event": "ذكرى وفاة أم المؤمنين خديجة بنت خويلد عام الحزن (10 بعد البعثة و السنة الثالثة ق.هـ)",
+      "importance": "high",
+      "type": "islamic_occasion"
+    },
+    {
+      "hijri_date": "12/9",
+      "hijri_day": 12,
+      "hijri_month": 9,
+      "event": "يوم المؤآخاة بين المهاجرين والأنصار في المدينة وقد آخى رسول الله بينه وبين علي",
+      "importance": "medium",
+      "type": "islamic_occasion"
+    },
+    {
+      "hijri_date": "15/9",
+      "hijri_day": 15,
+      "hijri_month": 9,
+      "event": "ولادة الإمام الحسن المجتبى 2هـ / خروج مسلم بن عقيل رسولاً عن الحسين لأهل الكوفة 60هـ",
+      "importance": "high",
+      "type": "shia_occasion"
+    },
+    {
+      "hijri_date": "17/9",
+      "hijri_day": 17,
+      "hijri_month": 9,
+      "event": "غزوة بدر الكبرى 2هـ",
+      "importance": "high",
+      "type": "islamic_occasion"
+    },
+    {
+      "hijri_date": "18/9",
+      "hijri_day": 18,
+      "hijri_month": 9,
+      "event": "نزول الزبور على داوود / بعد غروب هذا اليوم تبدأ ليالي القدر المباركة",
+      "importance": "medium",
+      "type": "islamic_occasion"
+    },
+    {
+      "hijri_date": "19/9",
+      "hijri_day": 19,
+      "hijri_month": 9,
+      "event": "جرح أمير المؤمنين بسيف عبدالرحمن بن ملجم المرادي الخارجي",
+      "importance": "high",
+      "type": "shia_occasion"
+    },
+    {
+      "hijri_date": "20/9",
+      "hijri_day": 20,
+      "hijri_month": 9,
+      "event": "فتح مكة 8هـ / فتح مصر 20هـ / احتمال ليلة القدر",
+      "importance": "high",
+      "type": "islamic_occasion"
+    },
+    {
+      "hijri_date": "21/9",
+      "hijri_day": 21,
+      "hijri_month": 9,
+      "event": "استشهاد أمير المؤمنين علي متأثراً بجرحه 40هـ",
+      "importance": "high",
+      "type": "shia_occasion"
+    },
+    {
+      "hijri_date": "22/9",
+      "hijri_day": 22,
+      "hijri_month": 9,
+      "event": "ليلة نزول القرآن",
+      "importance": "high",
+      "type": "islamic_occasion"
+    },
+    {
+      "hijri_date": "1/10",
       "hijri_day": 1,
       "hijri_month": 10,
-      "hijri_year": 1446,
       "event": "عيد الفطر المبارك",
       "importance": "high",
       "type": "islamic_occasion"
     },
     {
-      "hijri_date": "10/12/1446",
-      "hijri_day": 10,
-      "hijri_month": 12,
-      "hijri_year": 1446,
-      "event": "عيد الأضحى المبارك",
+      "hijri_date": "3/10",
+      "hijri_day": 3,
+      "hijri_month": 10,
+      "event": "معركة الخندق ومقتل عمرو بن ود العامري بيد أمير المؤمنين",
+      "importance": "medium",
+      "type": "historical"
+    },
+    {
+      "hijri_date": "4/10",
+      "hijri_day": 4,
+      "hijri_month": 10,
+      "event": "بداية الغيبة للإمام المهدي المنتظر (عج) 329هـ بوفاة علي بن محمد السامري النائب الرابع للحجة",
+      "importance": "high",
+      "type": "shia_occasion"
+    },
+    {
+      "hijri_date": "5/10",
+      "hijri_day": 5,
+      "hijri_month": 10,
+      "event": "وصول مسلم بن عقيل رسولا للإمام الحسين الى الكوفة عام 60 هـ",
+      "importance": "medium",
+      "type": "shia_occasion"
+    },
+    {
+      "hijri_date": "6/10",
+      "hijri_day": 6,
+      "hijri_month": 10,
+      "event": "يوم حنين عام 8 هجري",
+      "importance": "medium",
+      "type": "historical"
+    },
+    {
+      "hijri_date": "8/10",
+      "hijri_day": 8,
+      "hijri_month": 10,
+      "event": "ذكرى هدم قبور الأئمة الأطهار في البقيع الغرقد 1344 هـ",
+      "importance": "high",
+      "type": "historical"
+    },
+    {
+      "hijri_date": "15/10",
+      "hijri_day": 15,
+      "hijri_month": 10,
+      "event": "معركة أحد وشهادة حمزة عم النبي عام 3 هـ، وفاة السيد عبدالعظيم الحسني",
       "importance": "high",
       "type": "islamic_occasion"
     },
     {
-      "hijri_date": "18/12/1446",
+      "hijri_date": "25/10",
+      "hijri_day": 25,
+      "hijri_month": 10,
+      "event": "استشهاد الإمام جعفر بن محمد الصادق (عليه السلام) 148 هـ",
+      "importance": "high",
+      "type": "shia_occasion"
+    },
+    {
+      "hijri_date": "30/10",
+      "hijri_day": 30,
+      "hijri_month": 10,
+      "event": "ذكرى وفاة سيدنا إبراهيم ابن رسول الله 10 هـ",
+      "importance": "medium",
+      "type": "islamic_occasion"
+    },
+    {
+      "hijri_date": "1/11",
+      "hijri_day": 1,
+      "hijri_month": 11,
+      "event": "صلح الحديبية عام 6هـ / ذكرى ولادة فاطمة المعصومة بنت الإمام الكاظم عام 173",
+      "importance": "medium",
+      "type": "historical"
+    },
+    {
+      "hijri_date": "11/11",
+      "hijri_day": 11,
+      "hijri_month": 11,
+      "event": "ذكرى مولد الإمام الرضا 148 هـ، ولادة الشيخ المفيد",
+      "importance": "high",
+      "type": "shia_occasion"
+    },
+    {
+      "hijri_date": "23/11",
+      "hijri_day": 23,
+      "hijri_month": 11,
+      "event": "شهادة الإمام الرضا عام 203 هـ (على رواية)",
+      "importance": "high",
+      "type": "shia_occasion"
+    },
+    {
+      "hijri_date": "25/11",
+      "hijri_day": 25,
+      "hijri_month": 11,
+      "event": "ولادة النبي إبراهيم (على رواية) / ولادة النبي عيسى (على رواية) / خروج الإمام الرضا من المدينة الى خراسان / خروج النبي من المدينة لأداء فريضة الحج / يوم دحو الأرض (انبساط الأرض من تحت الكعبة على الماء)",
+      "importance": "medium",
+      "type": "islamic_occasion"
+    },
+    {
+      "hijri_date": "29/11",
+      "hijri_day": 29,
+      "hijri_month": 11,
+      "event": "نزول الحجر الأسود والرحمة الإلهية",
+      "importance": "medium",
+      "type": "islamic_occasion"
+    },
+    {
+      "hijri_date": "30/11",
+      "hijri_day": 30,
+      "hijri_month": 11,
+      "event": "ذكرى وفاة الإمام محمد الجواد 220 هـ",
+      "importance": "high",
+      "type": "shia_occasion"
+    },
+    {
+      "hijri_date": "1/12",
+      "hijri_day": 1,
+      "hijri_month": 12,
+      "event": "زواج الإمام علي من فاطمة الزهراء عام 2 هـ",
+      "importance": "medium",
+      "type": "shia_occasion"
+    },
+    {
+      "hijri_date": "7/12",
+      "hijri_day": 7,
+      "hijri_month": 12,
+      "event": "ذكرى وفاة الإمام محمد بن علي الباقر سنة 114 هـ",
+      "importance": "high",
+      "type": "shia_occasion"
+    },
+    {
+      "hijri_date": "8/12",
+      "hijri_day": 8,
+      "hijri_month": 12,
+      "event": "يوم التروية / خروج الإمام الحسين من مكة الى العراق / ظهور مسلم بن عقيل في الكوفة داعياً للإمام الحسين",
+      "importance": "medium",
+      "type": "shia_occasion"
+    },
+    {
+      "hijri_date": "9/12",
+      "hijri_day": 9,
+      "hijri_month": 12,
+      "event": "في هذا اليوم أمر رسول الله بغلق جميع الأبواب على المسجد الا باب علي / يوم عرفة / استشهاد مسلم بن عقيل وهاني بن عروة سنة 60هـ / وفاة الشيخ الطبرسي",
+      "importance": "high",
+      "type": "islamic_occasion"
+    },
+    {
+      "hijri_date": "10/12",
+      "hijri_day": 10,
+      "hijri_month": 12,
+      "event": "بلغ الإمام علي المشركين سورة براءة (سنة 9 هـ) / عيد الأضحى المبارك",
+      "importance": "high",
+      "type": "islamic_occasion"
+    },
+    {
+      "hijri_date": "15/12",
+      "hijri_day": 15,
+      "hijri_month": 12,
+      "event": "ميلاد الإمام علي بن محمد الهادي 212 هـ",
+      "importance": "high",
+      "type": "shia_occasion"
+    },
+    {
+      "hijri_date": "18/12",
       "hijri_day": 18,
       "hijri_month": 12,
-      "hijri_year": 1446,
       "event": "عيد الغدير الأغر (10 هـ)",
       "importance": "high",
       "type": "shia_occasion"
+    },
+    {
+      "hijri_date": "23/12",
+      "hijri_day": 23,
+      "hijri_month": 12,
+      "event": "استشهاد ميثم التمار صاحب أمير المؤمنين سنة 60هـ",
+      "importance": "medium",
+      "type": "shia_occasion"
+    },
+    {
+      "hijri_date": "24/12",
+      "hijri_day": 24,
+      "hijri_month": 12,
+      "event": "خروج رسول الله بأهل بيته لمباهلة نصارى نجران سنة 10 هـ / تصدق أمير المؤمنين بالخاتم (إنما وليكم الله ورسوله والذين آمنوا الذين يقيمون الصلاة ويؤتون الزكاة وهم راكعون)",
+      "importance": "high",
+      "type": "islamic_occasion"
+    },
+    {
+      "hijri_date": "25/12",
+      "hijri_day": 25,
+      "hijri_month": 12,
+      "event": "نزول الآيات الثمان عشر من سورة الدهر في فضل أهل البيت / البيعة لأمير المؤمنين بالخلافة سنة 35 هـ / زواج علي من الزهراء",
+      "importance": "high",
+      "type": "shia_occasion"
+    },
+    {
+      "hijri_date": "28/12",
+      "hijri_day": 28,
+      "hijri_month": 12,
+      "event": "واقعة الحرة",
+      "importance": "medium",
+      "type": "historical"
     }
   ],
-  "message": "المناسبات الإسلامية والشيعية لعام 1446 هـ - تم تجميعها من مصادر موثوقة"
+  "message": "المناسبات الإسلامية والشيعية الثابتة لجميع أشهر السنة الهجرية - يمكن استخدامها لأي سنة هجرية"
 }
